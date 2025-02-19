@@ -35,7 +35,7 @@ export const Hero = () => {
             </h1>
             <Image
               src={cursorImage}
-              className="absolute right-[467px] top-[108px] hidden sm:inline"
+              className="absolute right-[476px] top-[108px] hidden sm:inline"
               height="200"
               width="200"
               alt=""
