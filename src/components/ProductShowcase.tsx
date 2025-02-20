@@ -15,7 +15,7 @@ export const ProductShowcase = () => {
             one task at a time.
           </p>
         </div>
-        <Image className="mt-14" src={appScreen} alt="The product screenshot" />
+        <Image className="mt-14 mx-auto" src={appScreen} alt="The product screenshot" />
       </div>
     </div>
   );
